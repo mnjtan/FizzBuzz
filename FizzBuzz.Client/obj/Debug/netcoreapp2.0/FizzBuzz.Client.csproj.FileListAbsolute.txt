@@ -1,0 +1,11 @@
+C:\Repo\FizzBuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.0\FizzBuzz.Client.deps.json
+C:\Repo\FizzBuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.0\FizzBuzz.Client.runtimeconfig.json
+C:\Repo\FizzBuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.0\FizzBuzz.Client.runtimeconfig.dev.json
+C:\Repo\FizzBuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.0\FizzBuzz.Client.dll
+C:\Repo\FizzBuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.0\FizzBuzz.Client.pdb
+C:\Repo\FizzBuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.0\FizzBuzz.Client.csprojResolveAssemblyReference.cache
+C:\Repo\FizzBuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.0\FizzBuzz.Client.csproj.CoreCompileInputs.cache
+C:\Repo\FizzBuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.0\FizzBuzz.Client.AssemblyInfoInputs.cache
+C:\Repo\FizzBuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.0\FizzBuzz.Client.AssemblyInfo.cs
+C:\Repo\FizzBuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.0\FizzBuzz.Client.dll
+C:\Repo\FizzBuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.0\FizzBuzz.Client.pdb
